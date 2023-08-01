@@ -1,0 +1,12 @@
+https://zrh.cloudsigma.com/ui/4.0/servers_kvm/48c2676e-f607-4cda-b8b2-ad814e750aac
+https://fra.cloudsigma.com/ui/4.0/login
+https://ec.servecentric.com/ui/4.0/login
+https://tyo.cloudsigma.com/ui/4.0/login
+https://crk.cloudsigma.com/ui/4.0/login
+https://cloud.hydro66.com/ui/4.0/login
+https://gva.cloudsigma.com/ui/4.0/login
+https://lon.cloudsigma.com/ui/4.0/login
+https://sjc.alpha3cloud.com/ui/4.0/login
+https://wdc.alpha3cloud.com/ui/4.0/login
+https://mnl2.cloudsigma.com/ui/4.0/dashboard
+rdp1@mohmm.cloud
